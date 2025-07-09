@@ -1,4 +1,4 @@
-🎵 Termux Audio Troll Player
+## 🎵 Termux Audio Troll Player
 Yo! Ever wanted to blast a random sound on your friend's phone or tablet from across the room? This is the tool for you. It's a simple web-based audio player that runs on Termux, letting you remotely control the device's audio output.
 Upload any sound and play it on any Android device on the same network. Perfect for some epic trolling. 💀🔥 This ain't for the weak, only for the true masters of chaos.
 😎 Features
